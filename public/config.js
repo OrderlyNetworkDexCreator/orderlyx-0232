@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard,Vaults,Rewards",
-  "VITE_CUSTOM_MENUS": "Info Hub, https://orderlyx.blogspot.com/p/home.html; NFT, https://nft2.orderlyx.io",
+  "VITE_CUSTOM_MENUS": "NFT Marketplace, https://nft.orderlyx.io; Info Hub, https://orderlyx.blogspot.com/p/home.html",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
